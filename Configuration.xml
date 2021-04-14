@@ -201,6 +201,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<CommonModule>ВыводЭлементовМассива</CommonModule>
 			<DataProcessor>Задание1</DataProcessor>
 		</ChildObjects>
 	</Configuration>

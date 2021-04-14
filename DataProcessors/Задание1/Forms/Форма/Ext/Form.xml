@@ -4,32 +4,13 @@
 	<ChildItems>
 		<Button name="Сформировать" id="1">
 			<Type>UsualButton</Type>
-			<CommandName>Form.Command.Сформировать</CommandName>
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сформировать</v8:content>
-				</v8:item>
-			</Title>
+			<CommandName>Form.Command.ОбработкаНажатияКнопки</CommandName>
 			<ExtendedTooltip name="СформироватьРасширеннаяПодсказка" id="2"/>
 		</Button>
 	</ChildItems>
-	<Attributes>
-		<Attribute name="Объект" id="1">
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Объект</v8:content>
-				</v8:item>
-			</Title>
-			<Type>
-				<v8:Type>cfg:DataProcessorObject.Задание1</v8:Type>
-			</Type>
-			<MainAttribute>true</MainAttribute>
-		</Attribute>
-	</Attributes>
+	<Attributes/>
 	<Commands>
-		<Command name="Сформировать" id="1">
+		<Command name="ОбработкаНажатияКнопки" id="1">
 			<Title>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
@@ -39,10 +20,10 @@
 			<ToolTip>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Сформировать</v8:content>
+					<v8:content>Обработка нажатия кнопки</v8:content>
 				</v8:item>
 			</ToolTip>
-			<Action>Сформировать</Action>
+			<Action>ОбработкаНажатияКнопкиКоманда</Action>
 		</Command>
 	</Commands>
 </Form>

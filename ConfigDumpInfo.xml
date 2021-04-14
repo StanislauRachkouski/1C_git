@@ -1,10 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
 	<ConfigVersions>
-		<Metadata name="Configuration.Конфигурация" id="af21ac03-82c0-4d11-999a-6f220569914a" configVersion="ffb815f15973e3459d29356a7013da5500000000"/>
-		<Metadata name="DataProcessor.Задание1" id="f384273b-a0f1-4ddb-8923-87459a7f2a7e" configVersion="98c45db15cb8f44d9ae87104d8535e7000000000"/>
-		<Metadata name="DataProcessor.Задание1.Form.Форма" id="f2871285-a73a-4d61-86ea-0326032c003c" configVersion="c4941f26d5a1ba43a68aabd981cc6da000000000"/>
-		<Metadata name="DataProcessor.Задание1.Form.Форма.Form" id="f2871285-a73a-4d61-86ea-0326032c003c.0" configVersion="8516493abad94c498af9cef1807cd97100000000"/>
+		<Metadata name="CommonModule.ВыводЭлементовМассива" id="0e4e2685-daea-4d0a-a8f5-2bb81b15be42" configVersion="e300198e610dfa418594b284df18c2d900000000"/>
+		<Metadata name="CommonModule.ВыводЭлементовМассива.Module" id="0e4e2685-daea-4d0a-a8f5-2bb81b15be42.0" configVersion="ea9e2fd0cee104498090d125b49bc87600000000"/>
+		<Metadata name="Configuration.Конфигурация" id="af21ac03-82c0-4d11-999a-6f220569914a" configVersion="f2f9d43af40fb149a7ba093d8e67a5d200000000"/>
+		<Metadata name="DataProcessor.Задание1" id="f384273b-a0f1-4ddb-8923-87459a7f2a7e" configVersion="c225f1ea8c2ce749b3fe319db3cb6eda00000000"/>
+		<Metadata name="DataProcessor.Задание1.Form.Форма" id="f2871285-a73a-4d61-86ea-0326032c003c" configVersion="4093a4fdd44c10479d98fd23f3ff734800000000"/>
+		<Metadata name="DataProcessor.Задание1.Form.Форма.Form" id="f2871285-a73a-4d61-86ea-0326032c003c.0" configVersion="8e541a96422ce0409912f3ce50acefba00000000"/>
 		<Metadata name="Language.Русский" id="541c1f72-016d-4638-b535-3b86f3eb9236" configVersion="3df926174f8ff0458d85681e9dd971e700000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
